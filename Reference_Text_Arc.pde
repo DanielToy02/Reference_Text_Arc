@@ -1,4 +1,3 @@
-// post Reference_Text_Arc code here
 void setup() {
 size(700,700);
 }
